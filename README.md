@@ -1,10 +1,10 @@
 # Database_Project
  
 ## This is what I practiced in 'Database', a 24-1 HGU class. (Prof. Charmgil Hong)
-### Phase 1
+## Phase 1
 In phase 1, we received 2,400,228 records made up of 45 columns and had to model this raw data into formatted data.
 Result: queries for creating Views and ER-Diagram.
-### Phase 2
+## Phase 2
 For modeled data from phase 1, we had to make queries for certain purpose and optimze them.
 
 Our team optimzed queries by
