@@ -10,5 +10,6 @@ For modeled data from phase 1, we had to make queries for certain purpose and op
 Our team optimzed queries by
  1. Examining each implemented queries whether it contains unnecessary calculation and remove them
  2. Adopting index for proper tables.
+
 Result: Optimized queries satisfying their objectives, achieving low average speed (ms), and it was selected as the best result and report in the class.
 
